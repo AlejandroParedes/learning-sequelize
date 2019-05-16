@@ -1,5 +1,5 @@
 {
-  "name": "sequelize",
+  "name": "learning-sequelize",
   "version": "1.0.0",
   "description": "Learning sequelize",
   "main": "server.js",
@@ -12,5 +12,9 @@
     "javascript"
   ],
   "author": "Alejandro Paredes",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mariadb": "^2.0.5",
+    "sequelize": "^5.8.6"
+  }
 }
